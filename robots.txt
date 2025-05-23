@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://GudipudiAshok.github.io/Sample/sitemap.xml
+Sitemap: https://gudipudiashok.github.io/Sample/sitemap.xml
